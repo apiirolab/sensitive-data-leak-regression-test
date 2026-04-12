@@ -1,0 +1,5 @@
+APIIRO_SENSITIVE_DATA_LEAK_REGRESSION_TEST_KEYWORD_DO_NOT_DELETE
+
+This file is used by Apiiro automation tests to verify that the
+Sensitive Data Leak monitoring feature detects keywords in public repos.
+Do not remove or rename this file or the keyword above.
